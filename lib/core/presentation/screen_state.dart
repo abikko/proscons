@@ -1,0 +1,4 @@
+enum ScreenState {
+  loading,
+  loaded;
+}
